@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Graphic xmlns:fc="http://ns.adobe.com/flashcatalyst/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns="http://ns.adobe.com/fxg/2008" version="2.0">
+	<Rect height="100" width="100">
+		<fill>
+			<SolidColor color="#333333"/>
+		</fill>		
+	</Rect>
+	<Path winding="nonZero" x="2.373" y="3.86" data="M 48.627 16.365 L 78.016 0.914 L 72.404 33.64 L 96.18 56.815 L 63.322 61.591 L 48.627 91.365 L 33.932 61.591 L 1.074 56.815 L 24.851 33.64 L 19.238 0.914 L 48.627 16.365 Z">
+		<fill>
+			<SolidColor color="#1A1A1A"/>
+		</fill>
+	</Path>
+</Graphic>
